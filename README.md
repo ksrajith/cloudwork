@@ -1,4 +1,4 @@
-# Hybrid automation framwork BBD + DDD
+# Hybrid automation test framwork BBD + DDD
 Behaviour and Data Drivent test automation framwork for api testing
 
 -- In this test frame work I used below tech stack --
