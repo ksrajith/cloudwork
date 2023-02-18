@@ -1,0 +1,5 @@
+com/cloud/RunnerTest.class
+com/cloud/steps/api/ApiTestSteps.class
+com/cloud/steps/hooks/GeneralHooks.class
+com/cloud/data/DataManager.class
+com/cloud/steps/web/LandingPageTestSteps.class

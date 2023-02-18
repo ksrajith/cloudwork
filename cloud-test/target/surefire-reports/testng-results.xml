@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-18T22:13:59 IST" name="Suite" finished-at="2023-02-18T22:14:42 IST" duration-ms="42852">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-02-18T22:13:59 IST" name="ChromeTest" finished-at="2023-02-18T22:14:42 IST" duration-ms="42852">
+      <class name="com.cloud.RunnerTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:13:59 IST" name="setUpClass" finished-at="2023-02-18T22:13:59 IST" duration-ms="440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@438a65a7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:13:59 IST" name="setUp" finished-at="2023-02-18T22:14:10 IST" duration-ms="10998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:13 IST" duration-ms="2305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:14 IST" duration-ms="1263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:15 IST" duration-ms="1160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:16 IST" duration-ms="1176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:16 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:17 IST" duration-ms="1242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:19 IST" duration-ms="1224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:20 IST" duration-ms="1203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:21 IST" duration-ms="1244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verify api invocations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["APIs verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:21 IST" duration-ms="300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Web page element verification Web view"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Landing page verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:25 IST" duration-ms="3827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Web page search verification"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Landing page verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:26 IST" duration-ms="912" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Web page element verification mobile view"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Landing page verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-18T22:14:39 IST" duration-ms="12685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Web page search verification"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Landing page verifications"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="quite()[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:39 IST" name="quite" finished-at="2023-02-18T22:14:39 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.cloud.RunnerTest@6631f5ca]" started-at="2023-02-18T22:14:39 IST" name="tearDownClass" finished-at="2023-02-18T22:14:42 IST" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.cloud.RunnerTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
